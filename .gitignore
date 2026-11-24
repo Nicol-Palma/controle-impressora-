@@ -1,0 +1,19 @@
+# Arquivos gerados pela compilacao
+*.exe
+*.o
+*.obj
+
+# Bibliotecas externas da impressora
+*.dll
+
+# Arquivos XML utilizados nos testes
+*.xml
+
+# Arquivos temporarios
+*.log
+*.tmp
+*.bak
+
+# Arquivos auxiliares do Dev-C++
+*.layout
+*.depend
